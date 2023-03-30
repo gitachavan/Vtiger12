@@ -8,7 +8,7 @@ System.out.println("College Name-DR Daultrao aher college of engineering karad")
 System.out.println("Email Address-gitanjalichavan27@gmail.com");
 System.out.println("Address-Empire Eternity katraj pune");
 System.out.println("yop-2021");
-System.out.println("percentage-91.50");
+
 System.out.println("Academic project-Application of RS And GIS for geohydrological study of kolamba river western Maharashtra");
 }
 }
